@@ -1,0 +1,19 @@
+{
+  "name": "speedread-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@crxjs/vite-plugin": "^2.3.0",
+    "@mozilla/readability": "^0.6.0",
+    "dompurify": "^3.3.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
